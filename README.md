@@ -1,2 +1,2 @@
 # Python-Scripts
-I wanted to learn Python Basics
+I wanted to learn Python Application
